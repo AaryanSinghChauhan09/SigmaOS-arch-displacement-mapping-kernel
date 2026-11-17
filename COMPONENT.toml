@@ -3,7 +3,7 @@ name = "SigmaOS-arch-displacement-mapping-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-displacement-mapping-kernel component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
